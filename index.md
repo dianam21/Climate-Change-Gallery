@@ -32,13 +32,13 @@ Global average sea level since 1880 (compared to 1995). Data composited from [CS
   
   
 Trying videos  
-video: https://player.vimeo.com/video/116156252?title=0&byline=0&portrait=0
-
-
-
-
-
-
+video: https://player.vimeo.com/video/116156252?title=0&byline=0&portrait=0  
+  
+  
+  
+  
+  
+  
 You can use the [editor on GitHub](https://github.com/dianam21/Climate-Change-Gallery/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
