@@ -6,23 +6,31 @@ INSERT DESCRIPTION OF WEBSITE HERE
 ![image](https://user-images.githubusercontent.com/39588237/76151515-b164bf80-60ad-11ea-89f6-f7fd81b2ee03.png)
 Warming Stripes: Annual average temperatures for GLOBE from 1850-2018 using data from UK Met Office.  
 ([Source: Ed Hawkins, University of Reading](https://showyourstripes.info/))  
-**Tags: #stripes #global #temperatures**
-
+**Tags: #stripes #global #temperatures**  
+  
+  
+  
 ![image](https://user-images.githubusercontent.com/39588237/76151840-14a42100-60b1-11ea-8b6b-d6c5dd1a841a.png)
 Warming stripes: Temperature changes for every country. Each row of coloured pixels represents the temperature record of an individual nation within its region. 1901-2018. Bar in degrees Celsius.  
 (click on image to be able to use the magnifying glass to zoom in)  
 ([Source: Ed Hawkins, University of Reading](https://www.climate-lab-book.ac.uk/2019/showyourstripes/))  
-**Tags: #stripes #countries #continents #temperatures**
-
+**Tags: #stripes #countries #continents #temperatures**  
+  
+  
+  
 ![Alt Text](https://i0.wp.com/emmavreed.com/wp-content/uploads/2016/11/ezgif.com-9de85b22b4.gif?resize=604%2C453.gif)  
 Global average sea level since 1880 (compared to 1995). Data composited from [CSIRO](https://www.cmar.csiro.au/sealevel/sl_data_cmar.html) (1880-2013) and [satellite observations](http://sealevel.colorado.edu/content/2016rel4-global-mean-sea-level-time-series-seasonal-signals-retained) (1993-present).  
 ([Source: Emma Reed, University of Arizona](http://emmavreed.com/2016/11/20/global-sea-level-rise/))  
-**Tags: #sea #global #level**
-
+**Tags: #global #sea #level**  
+  
+  
+  
 ![Alt Text](https://earthobservatory.nasa.gov/blogs/earthmatters/wp-content/uploads/sites/5/2016/09/tempanoms_gis_august2016.gif)  
 ([Source: NASA](https://earthobservatory.nasa.gov/blogs/earthmatters/2016/09/12/heres-how-the-warmest-august-in-136-years-looks-in-chart-form/))  
-**Tags: #average #temperatures #monthly**
-
+**Tags: #average #temperatures #monthly**  
+  
+  
+  
 Trying videos  
 video: https://player.vimeo.com/video/116156252?title=0&byline=0&portrait=0
 
